@@ -2,6 +2,9 @@
     margin: 0%;
     padding: 0%;
 }
+body{
+    background-color: grey;
+}
 .contener{
     width: 270px;
     height: 110px;
@@ -15,7 +18,7 @@
     color: rgb(148, 15, 15);
     text-shadow: 1px 1px 1px rgb(137, 18, 137);
     line-height: 10px;
-    left: 390px;
+    left: 420px;
  bottom: 5px;
 }
 .item{
@@ -99,10 +102,10 @@ img{
 }
 
 .contener3{
-    width: 98%;
-    height: 250px;
+    width: 100.5%;
+    height: 265px;
     border: 1px solid rgb(28, 3, 3);
-    margin-top: 2%;
+    margin-top: 1%;
 }
 h2{
     font-weight: bold;
@@ -139,7 +142,7 @@ h5{
     border-radius: 20px;
     box-shadow: 5px 5px 1px rgb(84, 9, 84);
     background-color: rgb(134, 233, 29);
-    margin-left: 350px;
+    margin-left: 360px;
     margin-top: 30px;
     line-height: 5px;
     font-style: italic;
